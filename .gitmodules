@@ -1,0 +1,3 @@
+[submodule "vertical-platformer"]
+	path = vertical-platformer
+	url = git@github.com:aad61404/vertical-platformer.git
